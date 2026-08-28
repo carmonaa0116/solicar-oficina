@@ -17,9 +17,9 @@ import proyectos from '../data/proyectos';
 const VALORES = [
   {
     icono: 'camion',
-    titulo: 'Entrega rápida desde Castilla-La Mancha',
+    titulo: 'Entrega rápida en Castilla-La Mancha',
     texto:
-      'Almacén propio en Daimiel con stock permanente de las referencias de mayor rotación. Pedidos de hasta 40 puestos servidos en 72 horas dentro de Castilla-La Mancha y provincias limítrofes.',
+      'Coordinación logística directa con fabricante para ajustar cada envío a su plazo de obra. Pedidos de hasta 40 puestos entregados en 72 horas dentro de Castilla-La Mancha y provincias limítrofes.',
   },
   {
     icono: 'escudo',
