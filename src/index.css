@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Espejo en CSS de los tokens de tailwind.config.js, por si se necesitan
+       fuera de una clase de Tailwind (p. ej. en un SVG inline o un gradiente). */
+    --solicar-primary: #1b4f72;
+    --solicar-graphite: #2b2f33;
+    --solicar-sand: #f4f4f2;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* Compensa la altura del header sticky al navegar con enlaces ancla
+       (pestañas de la ficha de producto). */
+    scroll-padding-top: 7rem;
+  }
+
+  body {
+    @apply bg-white font-sans text-graphite antialiased;
+    font-weight: 400;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-semibold tracking-tight;
+    text-wrap: balance;
+  }
+
+  /* Accesibilidad: foco visible y consistente en todos los interactivos. */
+  :focus-visible {
+    @apply outline-none ring-2 ring-offset-2 ring-primary ring-offset-white;
+  }
+
+  .on-dark :focus-visible {
+    @apply ring-white ring-offset-graphite;
+  }
+}
+
+@layer components {
+  /* Contenedor estándar de todos los bloques full-width. */
+  .container-solicar {
+    @apply mx-auto w-full max-w-content px-5 sm:px-8 lg:px-12;
+  }
+
+  /* Antetítulo en versalitas usado sobre los titulares de bloque. */
+  .eyebrow {
+    @apply text-xs font-semibold uppercase tracking-widest;
+  }
+
+  .link-underline {
+    @apply underline decoration-1 underline-offset-4 hover:decoration-2;
+  }
+}
+
+/* Oculta la barra de desplazamiento en carruseles horizontales
+   manteniendo el scroll táctil. */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

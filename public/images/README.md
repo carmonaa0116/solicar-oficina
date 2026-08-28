@@ -1,0 +1,165 @@
+# Imágenes esperadas — Solicar Oficina
+
+Generado automáticamente a partir de src/data/*.js. Coloca cada archivo con el nombre exacto indicado.
+
+## productos/
+
+- /images/productos/sillas/ergo-pro-300.jpg
+  - /images/productos/sillas/ergo-pro-300-1.jpg
+  - /images/productos/sillas/ergo-pro-300-2.jpg
+  - /images/productos/sillas/ergo-pro-300-3.jpg
+  - /images/productos/sillas/ergo-pro-300-4.jpg
+- /images/productos/sillas/ergo-lite-200.jpg
+  - /images/productos/sillas/ergo-lite-200-1.jpg
+  - /images/productos/sillas/ergo-lite-200-2.jpg
+  - /images/productos/sillas/ergo-lite-200-3.jpg
+  - /images/productos/sillas/ergo-lite-200-4.jpg
+- /images/productos/sillas/ergo-executive-500.jpg
+  - /images/productos/sillas/ergo-executive-500-1.jpg
+  - /images/productos/sillas/ergo-executive-500-2.jpg
+  - /images/productos/sillas/ergo-executive-500-3.jpg
+  - /images/productos/sillas/ergo-executive-500-4.jpg
+- /images/productos/sillas/nexo-confidente.jpg
+  - /images/productos/sillas/nexo-confidente-1.jpg
+  - /images/productos/sillas/nexo-confidente-2.jpg
+  - /images/productos/sillas/nexo-confidente-3.jpg
+  - /images/productos/sillas/nexo-confidente-4.jpg
+- /images/productos/sillas/kanta-stack-080.jpg
+  - /images/productos/sillas/kanta-stack-080-1.jpg
+  - /images/productos/sillas/kanta-stack-080-2.jpg
+  - /images/productos/sillas/kanta-stack-080-3.jpg
+  - /images/productos/sillas/kanta-stack-080-4.jpg
+- /images/productos/mesas/work-120.jpg
+  - /images/productos/mesas/work-120-1.jpg
+  - /images/productos/mesas/work-120-2.jpg
+  - /images/productos/mesas/work-120-3.jpg
+  - /images/productos/mesas/work-120-4.jpg
+- /images/productos/mesas/work-160.jpg
+  - /images/productos/mesas/work-160-1.jpg
+  - /images/productos/mesas/work-160-2.jpg
+  - /images/productos/mesas/work-160-3.jpg
+  - /images/productos/mesas/work-160-4.jpg
+- /images/productos/mesas/work-bench-duo.jpg
+  - /images/productos/mesas/work-bench-duo-1.jpg
+  - /images/productos/mesas/work-bench-duo-2.jpg
+  - /images/productos/mesas/work-bench-duo-3.jpg
+  - /images/productos/mesas/work-bench-duo-4.jpg
+- /images/productos/mesas/work-elevate.jpg
+  - /images/productos/mesas/work-elevate-1.jpg
+  - /images/productos/mesas/work-elevate-2.jpg
+  - /images/productos/mesas/work-elevate-3.jpg
+  - /images/productos/mesas/work-elevate-4.jpg
+- /images/productos/mesas/consejo-240.jpg
+  - /images/productos/mesas/consejo-240-1.jpg
+  - /images/productos/mesas/consejo-240-2.jpg
+  - /images/productos/mesas/consejo-240-3.jpg
+  - /images/productos/mesas/consejo-240-4.jpg
+- /images/productos/armarios/modul-alto-5.jpg
+  - /images/productos/armarios/modul-alto-5-1.jpg
+  - /images/productos/armarios/modul-alto-5-2.jpg
+  - /images/productos/armarios/modul-alto-5-3.jpg
+  - /images/productos/armarios/modul-alto-5-4.jpg
+- /images/productos/armarios/modul-bajo-2.jpg
+  - /images/productos/armarios/modul-bajo-2-1.jpg
+  - /images/productos/armarios/modul-bajo-2-2.jpg
+  - /images/productos/armarios/modul-bajo-2-3.jpg
+  - /images/productos/armarios/modul-bajo-2-4.jpg
+- /images/productos/armarios/modul-archivador-3c.jpg
+  - /images/productos/armarios/modul-archivador-3c-1.jpg
+  - /images/productos/armarios/modul-archivador-3c-2.jpg
+  - /images/productos/armarios/modul-archivador-3c-3.jpg
+  - /images/productos/armarios/modul-archivador-3c-4.jpg
+- /images/productos/armarios/modul-estante-open.jpg
+  - /images/productos/armarios/modul-estante-open-1.jpg
+  - /images/productos/armarios/modul-estante-open-2.jpg
+  - /images/productos/armarios/modul-estante-open-3.jpg
+  - /images/productos/armarios/modul-estante-open-4.jpg
+- /images/productos/recepcion/atrio-recepcion-l.jpg
+  - /images/productos/recepcion/atrio-recepcion-l-1.jpg
+  - /images/productos/recepcion/atrio-recepcion-l-2.jpg
+  - /images/productos/recepcion/atrio-recepcion-l-3.jpg
+  - /images/productos/recepcion/atrio-recepcion-l-4.jpg
+- /images/productos/recepcion/atrio-recepcion-compact.jpg
+  - /images/productos/recepcion/atrio-recepcion-compact-1.jpg
+  - /images/productos/recepcion/atrio-recepcion-compact-2.jpg
+  - /images/productos/recepcion/atrio-recepcion-compact-3.jpg
+  - /images/productos/recepcion/atrio-recepcion-compact-4.jpg
+- /images/productos/recepcion/sala-sofa-3p.jpg
+  - /images/productos/recepcion/sala-sofa-3p-1.jpg
+  - /images/productos/recepcion/sala-sofa-3p-2.jpg
+  - /images/productos/recepcion/sala-sofa-3p-3.jpg
+  - /images/productos/recepcion/sala-sofa-3p-4.jpg
+- /images/productos/recepcion/sala-bancada-4p.jpg
+  - /images/productos/recepcion/sala-bancada-4p-1.jpg
+  - /images/productos/recepcion/sala-bancada-4p-2.jpg
+  - /images/productos/recepcion/sala-bancada-4p-3.jpg
+  - /images/productos/recepcion/sala-bancada-4p-4.jpg
+
+## proyectos/
+
+- /images/proyectos/ayuntamiento-manzanares.jpg
+  - /images/proyectos/ayuntamiento-manzanares-1.jpg
+  - /images/proyectos/ayuntamiento-manzanares-2.jpg
+  - /images/proyectos/ayuntamiento-manzanares-3.jpg
+  - /images/proyectos/ayuntamiento-manzanares-4.jpg
+- /images/proyectos/grupo-alcazar-corporativo.jpg
+  - /images/proyectos/grupo-alcazar-corporativo-1.jpg
+  - /images/proyectos/grupo-alcazar-corporativo-2.jpg
+  - /images/proyectos/grupo-alcazar-corporativo-3.jpg
+  - /images/proyectos/grupo-alcazar-corporativo-4.jpg
+- /images/proyectos/coworking-ciudad-real.jpg
+  - /images/proyectos/coworking-ciudad-real-1.jpg
+  - /images/proyectos/coworking-ciudad-real-2.jpg
+  - /images/proyectos/coworking-ciudad-real-3.jpg
+  - /images/proyectos/coworking-ciudad-real-4.jpg
+- /images/proyectos/ies-daimiel-administracion.jpg
+  - /images/proyectos/ies-daimiel-administracion-1.jpg
+  - /images/proyectos/ies-daimiel-administracion-2.jpg
+  - /images/proyectos/ies-daimiel-administracion-3.jpg
+  - /images/proyectos/ies-daimiel-administracion-4.jpg
+- /images/proyectos/clinica-dental-tomelloso.jpg
+  - /images/proyectos/clinica-dental-tomelloso-1.jpg
+  - /images/proyectos/clinica-dental-tomelloso-2.jpg
+  - /images/proyectos/clinica-dental-tomelloso-3.jpg
+  - /images/proyectos/clinica-dental-tomelloso-4.jpg
+- /images/proyectos/estudio-arquitectura-puertollano.jpg
+  - /images/proyectos/estudio-arquitectura-puertollano-1.jpg
+  - /images/proyectos/estudio-arquitectura-puertollano-2.jpg
+  - /images/proyectos/estudio-arquitectura-puertollano-3.jpg
+  - /images/proyectos/estudio-arquitectura-puertollano-4.jpg
+- /images/proyectos/oficina-empleo-valdepenas.jpg
+  - /images/proyectos/oficina-empleo-valdepenas-1.jpg
+  - /images/proyectos/oficina-empleo-valdepenas-2.jpg
+  - /images/proyectos/oficina-empleo-valdepenas-3.jpg
+  - /images/proyectos/oficina-empleo-valdepenas-4.jpg
+- /images/proyectos/eoi-alcazar-aulas.jpg
+  - /images/proyectos/eoi-alcazar-aulas-1.jpg
+  - /images/proyectos/eoi-alcazar-aulas-2.jpg
+  - /images/proyectos/eoi-alcazar-aulas-3.jpg
+  - /images/proyectos/eoi-alcazar-aulas-4.jpg
+
+## blog/
+
+- /images/blog/elegir-silla-oficina-une-en-1335.jpg
+- /images/blog/ergonomia-siete-ajustes.jpg
+- /images/blog/mesas-regulables-altura-evidencia.jpg
+- /images/blog/acustica-oficinas-diafanas.jpg
+- /images/blog/pliego-mobiliario-administracion-publica.jpg
+- /images/blog/reach-eutr-nimf15-importacion.jpg
+- /images/blog/amueblar-oficina-diez-personas.jpg
+- /images/blog/caso-52-puestos-planta-abierta.jpg
+- /images/blog/novedad-work-elevate.jpg
+
+## marcas/
+
+- /images/marcas/hag.svg
+- /images/marcas/rh.svg
+- /images/marcas/giroflex.svg
+- /images/marcas/profim.svg
+- /images/marcas/offecct.svg
+- /images/marcas/connection.svg
+- /images/marcas/9to5.svg
+- /images/marcas/via.svg
+- /images/marcas/stylex.svg
+- /images/marcas/spec.svg
+
